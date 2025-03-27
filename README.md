@@ -24,13 +24,7 @@ The program provides a simple command line interface for adding, recording, and 
 - `5`: Generate a pie chart of financial expenses.
 - `6`: Save data and exit program
 
-## Contributing
 
-If you would like to contribute to this project, please submit a pull request or open an issue with your ideas or suggestions.
-
-## Credits
-
-This program was created by augusthottie. 
 ## License
 
 This program is licensed under the [MIT License](https://opensource.org/licenses/MIT).
